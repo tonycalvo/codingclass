@@ -1,11 +1,9 @@
- body{
-    background-color: #cadde5;
-    padding: 40px;
-}  
- h1{
-   color: #2980b9;
-   font-size: 40px;  
+.container{
+    width: 740px;
+    margin: auto;
 }
- h3{
-  color: #e74c3c;
-}
+.main-header{
+    height: 110px;
+    color: #fff;
+    background: royal blue;
+}    
