@@ -1,0 +1,50 @@
+.container{
+    width: 740px;
+    margin: auto;
+}
+
+.main-header{
+    height: 110px;
+    color: #fff;
+    background: #666699;
+} 
+
+.main-content{
+  padding: 20px;
+  background:;
+} 
+
+.main-footer{
+  height: 65px;
+  color: #FFF;
+  background: #7E4E4E;
+}
+
+.base{
+    padding-top: 50px;
+    color: #FFF;
+    text-align: center; 
+    font-size: 24px; 
+}  
+
+.all-paragrph{
+  padding-top: 25px;
+  padding-right: 10px;
+  text-align: center; 
+  font-size: 24px; 
+}
+
+div ul{
+    border-bottom:  dotted #ff0000;
+}
+
+div ul li{
+    border-style: solid;
+    border-bottom:  dotted #ff0000;
+    border-bottom: 1px solid #000;
+}
+
+div ul li a{
+    border-style: solid;
+    border-bottom: 1px solid #000;
+}

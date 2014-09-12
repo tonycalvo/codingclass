@@ -33,3 +33,9 @@
 .links-title li a{
 	color:#FF33CC;
 }
+.base{
+    padding-top: 50px;
+    color: #FFF;
+    text-align: center; 
+    font-size: 24px; 
+} 
